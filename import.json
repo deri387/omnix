@@ -1,6 +1,6 @@
 {
   "imports": {
-    "single-spa": "https://cdn.jsdelivr.net/gh/deri387/omnix/npm/single-spa@5.9.3/lib/system/single-spa.min.js",
+    "single-spa": "https://cdn.jsdelivr.net/npm/single-spa@5.9.0/lib/system/single-spa.min.js",
     "react": "https://cdn.jsdelivr.net/gh/deri387/omnix/npm/react-dom@17.0.2/umd/react-dom.production.min.js",
     "react-dom": "https://cdn.jsdelivr.net/gh/deri387/omnix/npm/react-dom@17.0.2/umd/react-dom.production.min.js",
     "antd": "https://cdn.jsdelivr.net/gh/deri387/omnix/npm/antd@4.17.0/dist/antd.min.js"
